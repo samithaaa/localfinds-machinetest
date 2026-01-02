@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-02T17:31:29 IST" name="Default suite" finished-at="2026-01-02T17:31:41 IST" duration-ms="12233">
+  <suite started-at="2026-01-02T18:15:12 IST" name="Default suite" finished-at="2026-01-02T18:15:28 IST" duration-ms="15842">
     <groups>
     </groups>
-    <test started-at="2026-01-02T17:31:29 IST" name="Default test" finished-at="2026-01-02T17:31:41 IST" duration-ms="12233">
+    <test started-at="2026-01-02T18:15:12 IST" name="Default test" finished-at="2026-01-02T18:15:28 IST" duration-ms="15842">
       <class name="testcases.LoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.LoginTest@229f66ed]" started-at="2026-01-02T17:31:29 IST" name="setUp" finished-at="2026-01-02T17:31:31 IST" duration-ms="1423" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.LoginTest@229f66ed]" started-at="2026-01-02T18:15:12 IST" name="setUp" finished-at="2026-01-02T18:15:17 IST" duration-ms="4966" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="objInit()[pri:0, instance:testcases.LoginTest@229f66ed]" started-at="2026-01-02T17:31:31 IST" name="objInit" finished-at="2026-01-02T17:31:31 IST" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="objInit()[pri:0, instance:testcases.LoginTest@229f66ed]" started-at="2026-01-02T18:15:17 IST" name="objInit" finished-at="2026-01-02T18:15:17 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- objInit -->
-        <test-method signature="invalidLogin()[pri:1, instance:testcases.LoginTest@229f66ed]" started-at="2026-01-02T17:31:31 IST" name="invalidLogin" finished-at="2026-01-02T17:31:34 IST" duration-ms="2800" status="PASS">
+        <test-method signature="invalidLogin()[pri:1, instance:testcases.LoginTest@229f66ed]" started-at="2026-01-02T18:15:17 IST" name="invalidLogin" finished-at="2026-01-02T18:15:20 IST" duration-ms="2783" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidLogin -->
-        <test-method signature="validLogin()[pri:2, instance:testcases.LoginTest@229f66ed]" started-at="2026-01-02T17:31:34 IST" name="validLogin" finished-at="2026-01-02T17:31:37 IST" duration-ms="3232" status="PASS">
+        <test-method signature="validLogin()[pri:2, instance:testcases.LoginTest@229f66ed]" started-at="2026-01-02T18:15:20 IST" name="validLogin" finished-at="2026-01-02T18:15:23 IST" duration-ms="3273" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLogin -->
-        <test-method signature="prodCheck()[pri:3, instance:testcases.LoginTest@229f66ed]" started-at="2026-01-02T17:31:37 IST" name="prodCheck" finished-at="2026-01-02T17:31:41 IST" duration-ms="4583" status="PASS">
+        <test-method signature="prodCheck()[pri:3, instance:testcases.LoginTest@229f66ed]" started-at="2026-01-02T18:15:23 IST" name="prodCheck" finished-at="2026-01-02T18:15:28 IST" duration-ms="4627" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- prodCheck -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTest@229f66ed]" started-at="2026-01-02T17:31:41 IST" name="tearDown" finished-at="2026-01-02T17:31:41 IST" duration-ms="158" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTest@229f66ed]" started-at="2026-01-02T18:15:28 IST" name="tearDown" finished-at="2026-01-02T18:15:28 IST" duration-ms="145" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
